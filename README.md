@@ -1,0 +1,1 @@
+frontend: https://github.com/Jordan-Davidson/ghostpost_frontend
